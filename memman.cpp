@@ -10,7 +10,7 @@
 // #define USEMSV_INTERCEPT - set as global
 #define USEMSV_MEMORYCONTROL_INFO // Add memory info
 #define USEMSV_MEMORYCONTROL_STACK // Add stack trace
-
+#define USEMSV_MEMORYCONTROL_SYMOPT // Add Slow Sym..() optimazation.
 
 #define USEMSV_OPENSSL // Disable it if don't have openssl libraries
 
